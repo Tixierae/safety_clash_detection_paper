@@ -1,5 +1,5 @@
 # safety_clash_detection_paper
-supplementary material for the paper `Safety Clash Detection: Identifying Safety Incompatibilities among Fundamental Attributes using Data Mining` (Tixier, Hallowell, Rajagopalan, Bowman), Automation in Construction, in review.
+supplementary material for the paper `Construction Safety Clash Detection: Identifying Safety Incompatibilities among Fundamental Attributes using Data Mining` (Tixier, Hallowell, Rajagopalan, Bowman), Automation in Construction, in review.
 
 To cite the theses:
 
