@@ -1,7 +1,7 @@
 # safety_clash_detection_paper
-supplementary material
+supplementary material for the paper `Safety Clash Detection: Identifying Safety Incompatibilities among Fundamental Attributes using Data Mining` (Tixier, Hallowell, Rajagopalan, Bowman), Automation in Construction, in review.
 
-to cite the theses:
+To cite the theses:
 
 Desvignes, Matthieu. Requisite empirical risk data for integration of safety with advanced technologies and intelligent systems. Master Thesis. UNIVERSITY OF COLORADO AT BOULDER, 2014.
 
